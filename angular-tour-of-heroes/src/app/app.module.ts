@@ -15,7 +15,7 @@ import { HeroesComponent } from './heroes/heroes.component';
     BrowserModule,
     AppRoutingModule
   ],
-  import: [
+  imports: [
     BrowserModule,
     FormsModule],
     
